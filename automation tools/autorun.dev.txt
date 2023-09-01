@@ -1,0 +1,19 @@
+@echo off
+set program_path1=C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+set program_path2=C:\Users\tegar\Documents\TFS - Cyber Security\Hacking Tools\Github\dorkScanner\dorkScanner.py
+set program_path3=C:\Users\tegar\Downloads\Programs\osu!install.exe
+
+set parameters1=ipconfig
+set parameters2=param3 param4
+set parameters3=param5 param6
+
+REM Execute program 1
+%program_path1% %parameters1%
+
+REM Execute program 2
+%program_path2% %parameters2%
+
+REM Execute program 3
+%program_path3% %parameters3%
+
+pause
