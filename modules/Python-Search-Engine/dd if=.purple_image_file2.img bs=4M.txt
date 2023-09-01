@@ -1,0 +1,3 @@
+dd if=./purple_image_file2.img bs=4M | pv -s 256G | dd of=/dev/sda bs=4M
+
+gzip -d ./purple_image_file2.img > /dev/sda

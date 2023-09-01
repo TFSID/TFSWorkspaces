@@ -1,0 +1,24 @@
+hackgit
+infosec
+telegram channel
+groups
+intitle:"hackgit" OR intitle:"infosec" OR intitle:"telegram channel" OR intitle:"groups"
+inurl:"hackgit" OR inurl:"infosec" OR inurl:"telegram channel" OR inurl:"groups"
+site:telegram.me hackgit OR site:telegram.me infosec OR site:telegram.me "telegram channel" OR site:telegram.me groups
+"hackgit" AND "telegram channel" OR "infosec" AND "telegram channel" OR "hackgit" AND groups OR "infosec" AND groups
+intext:"hackgit" OR intext:"infosec" OR intext:"telegram channel" OR intext:"groups" site:telegram.me
+intext:"join" AND "hackgit" OR intext:"join" AND "infosec" OR intext:"join" AND "telegram channel" OR intext:"join" AND "groups" site:telegram.me
+intitle:"index of" hackgit OR intitle:"index of" infosec OR intitle:"index of" "telegram channel" OR intitle:"index of" groups
+"hackgit" AND "join group" OR "infosec" AND "join group" OR "telegram channel" AND "join group" OR groups AND "join group"
+filetype:pdf "hackgit" OR filetype:pdf "infosec" OR filetype:pdf "telegram channel" OR filetype:pdf "groups"
+"hackgit" AND "telegram" OR "infosec" AND "telegram" OR "telegram channel" AND "infosec" OR "groups" AND "telegram"
+intitle:"hackgit" OR intitle:"infosec" OR intitle:"telegram channel" OR intitle:"groups" site:telegram.me
+"hackgit" AND "infosec" OR "hackgit" AND "telegram channel" OR "infosec" AND "telegram channel" OR "groups" AND "telegram channel"
+"hackgit" AND "groups" OR "infosec" AND "groups" OR "telegram channel" AND "groups" OR "hackgit" AND "infosec" AND "telegram channel" AND "groups"
+inurl:"hackgit" OR inurl:"infosec" OR inurl:"telegram channel" OR inurl:"groups" site:telegram.me
+"telegram channel" AND "infosec" OR "telegram channel" AND "groups" OR "hackgit" AND "infosec" AND "groups" OR "hackgit" AND "telegram channel" AND "groups"
+"hackgit" AND "infosec" OR "infosec" AND "telegram channel" OR "hackgit" AND "telegram channel" OR "groups" AND "hackgit" AND "infosec"
+intext:"hackgit" OR intext:"infosec" OR intext:"telegram channel" OR intext:"groups" site:telegram.org
+"telegram channel" AND "infosec" OR "telegram channel" AND "groups" OR "hackgit" AND "infosec" AND "groups" OR "hackgit" AND "telegram channel" AND "groups" site:telegram.org
+intext:"hackgit" OR intext:"infosec" OR intext:"telegram channel" OR intext:"groups" site:t.me
+"hackgit" AND "infosec" OR "infosec" AND "telegram channel" OR "hackgit" AND "telegram channel" OR "groups" AND "hackgit" AND "infosec" site:t.me

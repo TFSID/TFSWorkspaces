@@ -1,0 +1,50 @@
+inurl:/barang/
+inurl:/jual/
+inurl:/beli/
+inurl:/buy/
+inurl:/store/
+inurl:/storage/
+inurl:/inventory/
+inurl:/stock/
+inurl:/market/
+inurl:/cart/
+inurl:"/add to cart/"
+inurl:/shipping/
+inurl:/Voucher/
+inurl:/creditCard/
+inurl:/seller/
+inurl:/pesanan/
+inurl:"/konfirmasi pesanan/"
+inurl:/API/
+inurl:"/Payment Gateaway/"
+inurl:/Doku/
+inurl:/Midtrans/
+inurl:/Faspay/
+inurl:/iPaymu/
+inurl:/Finpay/
+inurl:/Espay/
+inurl:/Winpay/
+inurl:/Prismalink/
+inurl:/NicePay/
+inurl:/Xendit/
+inurl:/KasPay/
+inurl:/FirstPay/
+inurl:/Truemoney/
+inurl:/Goods/
+inurl:/Selling/
+inurl:/Buying/
+inurl:/Purchase/
+inurl:/Shop/
+inurl:/Warehouse/
+inurl:/Stockpile/
+inurl:"/Inventory management/"
+inurl:"/Available items/"
+inurl:"/Retail market/"
+inurl:"/Online shopping cart/"
+inurl:"/Adding items to cart/"
+inurl:/Delivery/
+inurl:"/Discount coupon/"
+inurl:"/Plastic money/"
+inurl:/Merchant/
+inurl:/Order/
+inurl:"/Order confirmation/"

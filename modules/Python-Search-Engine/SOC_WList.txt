@@ -1,0 +1,84 @@
+Network Detections filetype:pdf inurl:journal.
+Endpoint Detections filetype:pdf inurl:journal.
+Intrusion Detections filetype:pdf inurl:journal.
+Security Operation Center filetype:pdf inurl:journal.
+Security Opertaion Reports filetype:pdf inurl:journal.
+SOC Analyst Reports filetype:pdf inurl:journal.
+Laporan SOC Analyst filetype:pdf inurl:journal.
+Laporan SOC Analyst Tier1 filetype:pdf inurl:journal.
+Report SOC Analyst filetype:pdf inurl:journal.
+Laporan Insiden SOC Analyst filetype:pdf inurl:journal.
+Laporan Cyber Security Incident Response Team filetype:pdf inurl:journal.
+Laporan Tim Insiden Respon Siber filetype:pdf inurl:journal.
+Laporan Tim Insiden Respon Cyber filetype:pdf inurl:journal.
+Laporan SOC filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Suricata filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Trendmicro filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Snort filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Windows filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Qradar filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Splunk filetype:pdf inurl:journal.
+Laporan NIDS Network Intrusion Detections System Vision One filetype:pdf inurl:journal.
+Laporan Intrusion Detections System Vision One filetype:pdf inurl:journal.
+Laporan Intrusion Detections Intrusion Detections System Suricata filetype:pdf inurl:journal.
+Laporan Intrusion Detections Intrusion Detections System Trendmicro filetype:pdf inurl:journal.
+Laporan Intrusion Detections Intrusion Detections System Snort filetype:pdf inurl:journal.
+Laporan Intrusion Detections Intrusion Detections System Windows filetype:pdf inurl:journal.
+Laporan Intrusion Detections Intrusion Detections System Qradar filetype:pdf inurl:journal.
+Laporan Intrusion Detections Intrusion Detections System Splunk filetype:pdf inurl:journal.
+Network Detections filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Endpoint Detections filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Intrusion Detections filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Security Operation Center filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Security Opertaion Reports filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+SOC Analyst Reports filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan SOC Analyst filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan SOC Analyst Tier1 filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Report SOC Analyst filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Insiden SOC Analyst filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Cyber Security Incident Response Team filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Tim Insiden Respon Siber filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Tim Insiden Respon Cyber filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan SOC filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Suricata filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Trendmicro filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Snort filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Windows filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Qradar filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Splunk filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan NIDS Network Intrusion Detections System Vision One filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections System Vision One filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections Intrusion Detections System Suricata filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections Intrusion Detections System Trendmicro filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections Intrusion Detections System Snort filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections Intrusion Detections System Windows filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections Intrusion Detections System Qradar filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Laporan Intrusion Detections Intrusion Detections System Splunk filetype:pdf site:openlibrarypublications.telkomuniversity.ac.id
+Network Detections filetype:pdf site:journal.binus.ac.id
+Endpoint Detections filetype:pdf site:journal.binus.ac.id
+Intrusion Detections filetype:pdf site:journal.binus.ac.id
+Security Operation Center filetype:pdf site:journal.binus.ac.id
+Security Opertaion Reports filetype:pdf site:journal.binus.ac.id
+SOC Analyst Reports filetype:pdf site:journal.binus.ac.id
+Laporan SOC Analyst filetype:pdf site:journal.binus.ac.id
+Laporan SOC Analyst Tier1 filetype:pdf site:journal.binus.ac.id
+Report SOC Analyst filetype:pdf site:journal.binus.ac.id
+Laporan Insiden SOC Analyst filetype:pdf site:journal.binus.ac.id
+Laporan Cyber Security Incident Response Team filetype:pdf site:journal.binus.ac.id
+Laporan Tim Insiden Respon Siber filetype:pdf site:journal.binus.ac.id
+Laporan Tim Insiden Respon Cyber filetype:pdf site:journal.binus.ac.id
+Laporan SOC filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Suricata filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Trendmicro filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Snort filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Windows filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Qradar filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Splunk filetype:pdf site:journal.binus.ac.id
+Laporan NIDS Network Intrusion Detections System Vision One filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections System Vision One filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections Intrusion Detections System Suricata filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections Intrusion Detections System Trendmicro filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections Intrusion Detections System Snort filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections Intrusion Detections System Windows filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections Intrusion Detections System Qradar filetype:pdf site:journal.binus.ac.id
+Laporan Intrusion Detections Intrusion Detections System Splunk filetype:pdf site:journal.binus.ac.id
