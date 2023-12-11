@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rapihan APP</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <textarea id="keywords" rows="15" cols="30"></textarea>
+    <input id="data" type="button" value="submit" onclick="filterLocal()" />
+
+    <select id="mySelect">
+      <option value="1">1.1.1.1 (1 percobaan)</option>
+      <option value="2">1.1.1.1 (1 kali)</option>
+      <option value="3">1.1.1.1 - 1</option>
+      <option value="4">1.1.1.1</option>
+    </select>
+
+    <textarea id="ip" rows="15" cols="50"></textarea>
+  </body>
+</html>
+
+<script>
+  function filterLocal() {
+    var format = document.getElementById("mySelect").value;
+
+    let a = document.getElementById("keywords").value.split(" ").join(" ");
+    let b = a.split("\n");
+    let pattern = /^10.*/gm;
+    var res = "";
+    var regex;
+    for (let i = 0; i < b.length; i++) {
+      if (i % 2 == 0) {
+        if (format == 1) {
+          var c = b[i] + " (" + b[i + 1] + " percobaan)\n";
+          res += c;
+        } else if (format == 2) {
+          var c = b[i] + " (" + b[i + 1] + " kali)\n";
+          res += c;
+        } else if (format == 3) {
+          var c = b[i] + " - " + b[i + 1] + "\n";
+          res += c;
+        } else if (format == 4) {
+          var c = b[i] + "\n";
+          res += c;
+        } else {
+          var c = b[i] + "\n";
+          res += c;
+        }
+      }
+    }
+    console.log(res);
+    let result = res.match(pattern) + "\n";
+    
+    
+    $("#ip").val(result.replaceAll(",","\n"));
+
+  }
+</script>
